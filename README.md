@@ -21,5 +21,9 @@ LOGICAL WORK FLOW ORDER
 7-Invoice is created.
   tblInvoice (sp_InvoiceCreate)
 
-  
-* History (H) Files for deleted/inserted/updated informations.
+*Education Schema (E.) Main tables.  
+* History Schema (H.) Files for deleted/inserted/updated informations.
+* Stored Procedures (SP_)
+* Functions (FN_)
+* View (VW_)
+
